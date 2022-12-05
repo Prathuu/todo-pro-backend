@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "john",
+      "userEmail": "john@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "active": false,
+      "admin": true,
+      "id": 1
+    },
+    {
+      "name": "don",
+      "userEmail": "don@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "active": false,
+      "admin": true,
+      "id": 2
+    },
+    {
+      "name": "abc",
+      "userEmail": "abc@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "active": true,
+      "admin": false,
+      "id": 3
+    },
+    {
+      "name": "xyz",
+      "userEmail": "xyz@gmail.com",
+      "password": "123",
+      "cpassword": "123",
+      "active": true,
+      "admin": false,
+      "id": 4
+    }
+  ],
+  "todos": [
+    {
+      "todo": "Work",
+      "description": "Complete",
+      "priority": "med",
+      "category": "office",
+      "id": 4
+    },
+    {
+      "todo": "study",
+      "description": "hosting",
+      "priority": "high",
+      "category": "personal",
+      "id": 5
+    },
+    {
+      "todo": "learn",
+      "description": "NextJs",
+      "priority": "low",
+      "category": "study",
+      "id": 9
+    }
+  ]
+}
